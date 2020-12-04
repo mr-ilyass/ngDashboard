@@ -1,8 +1,13 @@
 # Welcome to Dashboard with angular 11 👋
-[![Version](https://img.shields.io/npm/v/Dashboard with angular 11.svg)](https://www.npmjs.com/package/Dashboard with angular 11)
 [![License: GNU](https://img.shields.io/badge/License-GNU-yellow.svg)](#)
 
 > Simple Dashboard using angular 11
+
+
+## Preview
+
+![FireShot Capture 007 - Dashboard - localhost](https://user-images.githubusercontent.com/46675705/101218510-7a92f880-3683-11eb-9ec6-6de2d308ab36.png)
+
 
 ## Install
 
@@ -33,6 +38,6 @@ npm run test
 
 Give a ⭐️ if this project helped you!
 
+## Special thanks to 
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+[@Soufian-fadil](https://github.com/bloodymind)
